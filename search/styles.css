@@ -1,0 +1,13 @@
+a.toplink {
+    text-align:right;
+    display:block;
+    padding-block: 5px 5px;
+}
+body {
+    text-align: center;
+    color:blue;
+}
+
+.searchbar {
+    margin-bottom: 5px;
+}
